@@ -11,4 +11,8 @@ git commit -am "Install laravel" /git commit -m "Install laravel"
 
 git commit -am "Install laravel"
 
+git branch -M main
+git remote add origin https://github.com/taher267/Laravel-2021.git
+git push -u origin main
+
 
