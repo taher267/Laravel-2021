@@ -3,10 +3,12 @@ git status
 git add . (dot means all files)
 
 git status (dont have any file red color in this file)
+
 git commit -am "Install laravel" /git commit -m "Install laravel"
 
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 
+git commit -am "Install laravel"
 
 
